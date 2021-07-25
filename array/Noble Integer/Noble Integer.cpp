@@ -1,3 +1,16 @@
+#include<iostream>
+#include<vector>
+#include <algorithm>
+using namespace std;
+
+// Class Definition 
+
+class Solution{
+    public:
+    int solve(vector<int> &A );
+};
+
+// Program Code
 
 
 int Solution::solve(vector<int> &A) {

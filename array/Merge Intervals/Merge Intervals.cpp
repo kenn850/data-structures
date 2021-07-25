@@ -1,3 +1,17 @@
+#include<iostream>
+#include<vector>
+#include <algorithm>
+using namespace std;
+
+// Class Definition 
+
+class Solution{
+    public:
+    vector<Interval> insert(vector<Interval> &A, Interval B );
+};
+
+// Program Code
+
 
 
 struct Interval

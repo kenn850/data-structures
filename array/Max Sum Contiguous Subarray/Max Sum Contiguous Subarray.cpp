@@ -1,4 +1,16 @@
+#include<iostream>
+#include<vector>
+#include <algorithm>
+using namespace std;
 
+// Class Definition 
+
+class Solution{
+    public:
+    int maxSubArray(const vector<int> &A );
+};
+
+// Program Code
 
 
 int Solution::maxSubArray(const vector<int> &A) {

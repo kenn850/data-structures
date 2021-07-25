@@ -1,4 +1,16 @@
+#include<iostream>
+#include<vector>
 
+using namespace std;
+
+// Class Definition 
+
+class Solution{
+    public:
+    int solve(vector<int> &A , int B);
+};
+
+// Program Code
 int Solution::solve(vector<int> &A, int B) {
 
     int s = A.size();

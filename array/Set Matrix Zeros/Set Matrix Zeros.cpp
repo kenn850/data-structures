@@ -1,3 +1,17 @@
+#include<iostream>
+#include<vector>
+
+using namespace std;
+
+// Class Definition 
+
+class Solution{
+    public:
+    void setZeroes(vector<vector<int> > &A);
+};
+
+// Program Code
+
 void Solution::setZeroes(vector<vector<int> > &A) {
     int c = 0, r = 0;
     int n = A.size();

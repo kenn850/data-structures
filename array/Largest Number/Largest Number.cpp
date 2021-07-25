@@ -1,4 +1,16 @@
+#include<iostream>
+#include<vector>
+#include <algorithm>
+using namespace std;
 
+// Class Definition 
+
+class Solution{
+    public:
+    string largestNumber(const vector<int> &A );
+};
+
+// Program Code
 
 bool cmp(string X,string Y){
     string XY = X.append(Y);
