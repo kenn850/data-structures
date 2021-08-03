@@ -2,3 +2,4 @@
 vcpkg/
 .vscode/c_cpp_properties.json
 a.py
+folder.py
