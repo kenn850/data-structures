@@ -2,7 +2,6 @@
 vcpkg/
 .vscode/c_cpp_properties.json
 a.py
-folder.py
 copyText.text
 file.py
 .vscode/settings.json
