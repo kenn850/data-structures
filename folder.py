@@ -48,7 +48,7 @@ if(cont == 'y' or cont == 'Y' or cont == 'YES' or cont == 'Yes'):
     i = 13
     while (i < len(list_of_lines)):
         if(list_of_lines[i].find("Solution") != -1):
-            list_of_lines[9] = "\t" + list_of_lines[i].partition("{")[0] + ";\n"
+            list_of_lines[10] = "\t" + list_of_lines[i].partition("{")[0] + ";\n"
             break
         i += 1
 
