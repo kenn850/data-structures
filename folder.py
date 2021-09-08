@@ -7,8 +7,8 @@ directory = str(input())
 
   
 
-path = "K:\data-structures\\heap\{} ".format(directory)
-pathF = "K:\data-structures\\heap\{}\README.md ".format(directory)
+path = "K:\data-structures\\Dynamic Programming\{} ".format(directory)
+pathF = "K:\data-structures\\Dynamic Programming\{}\README.md ".format(directory)
 
 
 os.mkdir(path)
