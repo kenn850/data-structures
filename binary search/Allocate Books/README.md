@@ -17,8 +17,6 @@ Calculate and return that minimum possible number.
 NOTE: Return -1 if a valid assignment is not possible.
 
 
-
-
 ### Input Format
 
 The first argument given is the integer array A.
