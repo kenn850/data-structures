@@ -34,6 +34,7 @@ B = [2, 5]
 
 Output:
 
+
 6
 
 Explanation:
