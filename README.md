@@ -2,4 +2,4 @@
 
 C++ Codes of Data Structures Problems
 
-From InterviewBit, Leetcode and HackerRank.
+Different problems from InterviewBit, Leetcode and HackerRank.
