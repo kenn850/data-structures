@@ -4,7 +4,6 @@
 using namespace std;
 
 // Class Definition 
-
 class Solution{
     public:
 	int Solution::solve(int n) ;
